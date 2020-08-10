@@ -3,6 +3,7 @@ package ru.sbrf.lesson;
 
 // Занятие 2, задание 4
 public class Main {
+
     // Занятие 3, задание 6
     public static int getMaxNumber(int x, int y) {
         int max;
@@ -11,15 +12,6 @@ public class Main {
         else
             max = y;
         return max;
-    }
-
-    public void main(String[] args) {
-        System.out.println("Hello world!");
-        byte a = 2;
-        short b = 3;
-        int c = 5, d = 6;
-        long e = 7;
-
     }
 
     //Занятие 3, задание 4
@@ -34,6 +26,14 @@ public class Main {
         return z;
     }
 
+    public void main(String[] args) {
+        System.out.println("Hello world!");
+        byte a = 2;
+        short b = 3;
+        int c = 5, d = 6;
+        long e = 7;
+
+    }
 }
 
 
